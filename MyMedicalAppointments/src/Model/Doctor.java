@@ -89,7 +89,7 @@ public class Doctor extends User{
     @Override
     public void showDataUser() {
         System.out.println("Hospital: Cruz roja");
-        System.out.println("Depto:  Uncologia");
+        System.out.println("Depto:  Oncologia");
 
     }
 
