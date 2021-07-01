@@ -50,9 +50,9 @@ public class UIMenu {
         //userType = 1 Doctor
         //userType = 2 Patient
       ArrayList<Doctor> doctors = new ArrayList<>();
-        doctors.add(new Doctor("Daniel", "Danilo@gmail.com"));
+        doctors.add(new Doctor("Daniel", "Daniel@gmail.com"));
         doctors.add(new Doctor("Brenda", "Brenda@gmail.com"));
-        doctors.add(new Doctor("Dnaiela", "Canijilla@gmail.com"));
+        doctors.add(new Doctor("Alejandro", "Ale@gmail.com"));
 
         ArrayList<Patient> patients = new ArrayList<>();
         patients.add(new Patient("Antonio", "ant@gmail.com"));
